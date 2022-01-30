@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @danielsmelo
-- 👀 I’m interested in database administration 
-- 🌱 I’m currently learning PHP
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsmelo&layout=compact">
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Daniel%20Melo&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+<p>
+
+Trabalhando na **Nest Digital**<br/>
+  
+Estudando na **UNIFEI**<br/>
+
+</p>
+<hr>
+
 
 <!---
 danielsmelo/danielsmelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
