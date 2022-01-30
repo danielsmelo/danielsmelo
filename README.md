@@ -8,6 +8,8 @@ Trabalhando na **Nest Digital**<br/>
   
 Estudando na **UNIFEI**<br/>
 
+Interesse por **DevOps, Banco de Dados, Backend**<br/>
+
 </p>
 <hr>
 
