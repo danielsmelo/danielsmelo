@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsmelo&layout=compact">
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielsmelo&layout=compact">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel%20Melo&color=f8efd4&style=for-the-badge&logo=GitHub">
 
