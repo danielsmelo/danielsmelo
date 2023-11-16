@@ -3,8 +3,6 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel%20Melo&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-
-Trabalhando na **Nest Digital**<br/>
   
 Estudando na **UNIFEI**<br/>
 
